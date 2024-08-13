@@ -1,40 +1,56 @@
-## Minimal [(Free version)](https://minimal-kit-react.vercel.app/)
+Here's a customized README for the "PostingHouse Rental Dashboard" project based on your description:
+
+---
+
+# PostingHouse Rental Dashboard
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-> Free React Admin Dashboard made with Material-UI components and React.
+> PostingHouse Rental Dashboard is a React Admin Dashboard created during my internship, designed to manage house rentals with a focus on clients of hospitals. This project leverages Material-UI components and integrates Google Maps to display the location of the closest hospital to the rental properties.
 
 ![preview](public/assets/preview.jpg)
 
-| [Minimal Free](https://minimal-kit-react.vercel.app/) | [Minimal](https://material-ui.com/store/items/minimal-dashboard/) |
-| ----------------------------------------------------- | :---------------------------------------------------------------- |
-| **6** Demo pages                                      | **50+** demo pages                                                |
-| -                                                     | ✓ Multi-language                                                  |
-| -                                                     | ✓ Dark/Light Mode 🌓                                              |
-| -                                                     | ✓ [More components](https://minimals.cc/components)               |
-| -                                                     | ✓ Next.js version                                                 |
-| -                                                     | ✓ TypeScript version                                              |
-| -                                                     | ✓ Design files (Figma & Sketch)                                   |
+## Features
 
-## Page demo
+- **House Rental Management**: Easily manage and post available houses for rent.
+- **Google Maps Integration**: View the location of the closest hospitals relative to the rental properties.
+- **User Management**: Admin can manage users who post and search for rental properties.
+- **Responsive Design**: Fully responsive and works well on all devices.
+- **Material-UI Components**: Built with Material-UI for a sleek and modern interface.
 
-- [Dashboard](https://minimal-kit-react.vercel.app/dashboard/app)
-- [Users](https://minimal-kit-react.vercel.app/dashboard/user)
-- [Product](https://minimal-kit-react.vercel.app/dashboard/products)
-- [Blog](https://minimal-kit-react.vercel.app/dashboard/blog)
-- [Login](https://minimal-kit-react.vercel.app/login)
-- [Not Found](https://minimal-kit-react.vercel.app/404)
+## Page Demo
 
-## Getting started
+- [Dashboard](https://minimal-kit-react.vercel.app/dashboard/app) - Main dashboard with an overview of rentals and hospital locations.
+- [Users](https://minimal-kit-react.vercel.app/dashboard/user) - Manage users who are posting or searching for rentals.
+- [Properties](https://minimal-kit-react.vercel.app/dashboard/products) - View and manage rental properties.
+- [Blog](https://minimal-kit-react.vercel.app/dashboard/blog) - Articles and tips for renters.
+- [Login](https://minimal-kit-react.vercel.app/login) - Secure login for admin access.
+- [Not Found](https://minimal-kit-react.vercel.app/404) - Custom 404 page for missing routes.
 
-- Recommended `node js 16.x` and `npm 6+`. (suggestion v16.15.0)
-- Install dependencies: `npm install` / `yarn install`
-- Start the project: `npm run start` / `yarn start`
+## Getting Started
+
+1. **Node.js and npm**:
+   - Recommended: `Node.js 16.x` and `npm 6+` (Suggested: v16.15.0)
+   - Install dependencies: 
+     ```bash
+     npm install
+     ```
+   - Start the project:
+     ```bash
+     npm run start
+     ```
+
+2. **Google Maps API Integration**:
+   - Make sure to set up your Google Maps API key in the environment variables to enable hospital location mapping.
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/minimal-ui-kit/minimal.free/blob/main/LICENSE.md) for more information.
+This project is distributed under the MIT License. See the [LICENSE](https://github.com/your-username/PostingHouse/blob/main/LICENSE.md) file for more information.
 
-## Contact us
+## Contact
 
-Email Us: support@minimals.cc
+For questions or support regarding the PostingHouse Rental Dashboard:
+
+- **Email**: [ascil.chtioui@gmail.com](mailto:ascil.chtioui@gmail.com)
+
+---
