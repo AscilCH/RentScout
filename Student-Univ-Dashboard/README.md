@@ -1,7 +1,3 @@
-Here's a README tailored for your project, which focuses on showing houses for rent in relation to university and institute locations, using React and Material-UI (MUI) with Google Maps integration:
-
----
-
 # University Housing Rental Dashboard
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
