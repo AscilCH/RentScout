@@ -1,7 +1,3 @@
-Here's a customized README for the "PostingHouse Rental Dashboard" project based on your description:
-
----
-
 # PostingHouse Rental Dashboard
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
